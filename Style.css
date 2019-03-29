@@ -4,3 +4,7 @@
   box-sizing: border-box;
   border: 0.5px solid lavender;
 }
+
+div {
+  border: 0.5px solid black;
+}
