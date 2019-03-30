@@ -1,14 +1,14 @@
-* {
+div{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-div {
+div{
   border: 1px solid black;
 }
 
-h1,h2,h3,p,li,h4 {
+h1,h2,h3,p,li,h4{
   margin: 16px;
   padding: 5px;
  font-family: 'Caveat', cursive;
@@ -17,7 +17,7 @@ h1,h2,h3,p,li,h4 {
   height: 49px;
 }
 
-body {
+body{
   margin: 16px;
   padding: 5px;
   font-family: 'Amatic SC', cursive;
